@@ -1,0 +1,14 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+.counter-outer-wrapper {
+  width: 100%;
+  min-height: 100vh;
+
+  .counter-display {
+    font-size: 6rem;
+  }
+}
